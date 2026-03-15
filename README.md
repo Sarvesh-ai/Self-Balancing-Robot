@@ -8,7 +8,7 @@ This project implements a closed-loop **PID control system** to maintain upright
 
 ### 🎥 Demonstration
 <p align="center">
-  [Insert your dragged-and-dropped video link here]
+  [https://github.com/Sarvesh-ai/Self-Balancing-Robot/blob/f8442a36063b1058831ae27bb53590b4e1563ee2/Robot_balancing_video.mp4]
 </p>
 
 <p align="center">
