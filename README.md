@@ -7,9 +7,6 @@ This project implements a closed-loop **PID control system** to maintain upright
 ---
 
 ### 🎥 Demonstration
-<p align="center">
-  [Robot_balancing_video.mp4]
-</p>
 
 <p align="center">
   <img src="Robot_front_view.jpeg" width="300">
