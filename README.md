@@ -7,7 +7,7 @@ This project implements a closed-loop **PID control system** to maintain upright
 ---
 
 ### 🎥 Demonstration
-
+![Robot Front View](Robot_front_view.jpg)
 ---
 
 ## 🛠️ Tech Stack
