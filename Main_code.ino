@@ -1,14 +1,14 @@
-#define BLYNK_TEMPLATE_ID   "TMPL3IdJrxPmL"
+#define BLYNK_TEMPLATE_ID   "Your_template_id"
 #define BLYNK_TEMPLATE_NAME "Balancingrobot"
-#define BLYNK_AUTH_TOKEN    "pdj_Lhr1WwEt5eukTPC3tfcsIlJ-2qbB"
+#define BLYNK_AUTH_TOKEN    "Your_blynk_auth_token"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 #include <MPU6050_light.h>
 #include <Wire.h>
 
-char ssid[] = "PHN-Guest";
-char pass[] = "Phn@77234$";
+char ssid[] = "Your_Wifi_SSID";
+char pass[] = "Your_Wifi_password";
 
 MPU6050 mpu(Wire);
 
